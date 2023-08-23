@@ -13,6 +13,7 @@ This Telegram bot provides users with detailed information about specific banks.
 
 - .NET 6
 - Telegram Bot Token
+- DaData API Token
 
 ### Installation
 

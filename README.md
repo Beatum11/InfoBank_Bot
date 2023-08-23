@@ -1,6 +1,6 @@
 # BankInfo | Telegram Bot
 
-This Telegram bot provides users with detailed information about specific banks. It has been developed using .NET 6 and leverages the `telegram.bot` library for seamless integration with the Telegram platform.
+This Telegram bot provides users with detailed information about specific banks. It has been developed using .NET 6 and leverages the `telegram.bot` library for seamless integration with the Telegram platform and `DaData API` for getting information about banks.
 
 ## Features
 
